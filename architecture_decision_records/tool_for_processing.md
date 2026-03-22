@@ -13,9 +13,9 @@ Decided to choose Apache Flink for processing.
 
 Active
 
+**Consequences** 
+- Flink is not as easy to develop compared to Spark code, which Python APIs on top of it.
+
 **Trade-offs**
 - Spark vs Flink: Pyspark streaming is another option but can only achieve micro-batch processing. Whereas, Flink can do real-time streaming. 
 - Since latency is an important constraint in this use case I chose Flink.
-
-**Consequences** 
-- Flink is not as easy to develop compared to Spark code, which Python APIs on top of it.
