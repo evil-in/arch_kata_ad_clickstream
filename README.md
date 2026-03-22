@@ -76,7 +76,10 @@ Response:
 - Processing: Flink
 
 ### Data Model
-(WIP)
+WIP
+
+### Scalability/Performance
+WIP
 
 ### Self-relfection doc
 [Arch Kata: Attendee self-reflection - Ad Click Stream](https://docs.google.com/document/d/1siwaBOk6ZsgLMTTJhdhNFWZO0dNU-D1oXZI-rlrHY5w/edit?usp=sharing)
